@@ -3,7 +3,11 @@
 
 This project is a frontend application for an **online auction system**. It allows users to **browse and bid** on products listed by sellers, handles **user registration and login** based on different roles (Admin, Customer, Seller, Delivery Person), manages **product listings** and categories, and facilitates the **ordering and delivery** process after an auction concludes. It provides distinct interfaces and functionalities based on the logged-in user's role.
 
+#### Note: This project is a part of [HammerTime](https://github.com/utkarsh-singh-dev/HammerTime-backend)
 
+##### Prerequsite: Run the backend before running the frontend file.
+
+##### Steps to run the project: Open the project root in the terminal and run `npm start`. The project will start on localhost:3000
 ## Visual Overview
 
 ```mermaid
