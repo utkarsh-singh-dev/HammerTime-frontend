@@ -10,6 +10,12 @@ This project is a frontend application for an **online auction system**. It allo
 ##### Steps to run the project: Open the project root in the terminal and run `npm start`. The project will start on localhost:3000
 ## Visual Overview
 
+UI
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6dfe531e-c6f0-4875-954b-4854d2dbf6cb" />
+
+
+
 ```mermaid
 flowchart TD
     A0["React Components
